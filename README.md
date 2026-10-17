@@ -1,142 +1,70 @@
-# 🧪 Smart Urinalysis System
+# 🧪 Smart Urinalysis
 
-**A Technology-Driven Approach to Urine Sample Analysis and Health Monitoring**
+### Intelligent Urine Analysis for Health Monitoring
 
-## 📌 Overview
+## 📌 About the Project
 
-Smart Urinalysis is a healthcare-focused project aimed at exploring how technology can support urine sample analysis and make health-related information easier to understand.
+**Smart Urinalysis** is a collaborative project focused on using technology to support urine analysis and health monitoring. The project explores how a technology-driven approach can help make urine analysis more accessible, systematic, and informative.
 
-The project focuses on simplifying the urinalysis process through a structured digital approach, with the potential to support faster data interpretation, health monitoring, and improved accessibility to preliminary health insights.
+Urinalysis is commonly used to assess various aspects of health. By developing a smart analysis solution, this project aims to demonstrate how software and data processing can support the analysis process and present relevant results in an understandable format.
+
+This project was developed collaboratively by **three team members, with equal contributions from all members**. Although the project is hosted on one member's GitHub account, the development effort and project credit are shared equally.
 
 ## 🎯 Objectives
 
-- Explore technology-based approaches to urine sample analysis.
-- Organize and present urinalysis-related information clearly.
-- Support efficient interpretation of relevant sample data.
-- Demonstrate the application of software and data analysis in healthcare.
-- Encourage the use of technology to support health awareness.
+- Explore technology-assisted urine analysis.
+- Develop a system that supports the project's intended analysis workflow.
+- Present analysis results in a clear and understandable format.
+- Apply programming and problem-solving concepts to a healthcare-related use case.
+- Collaborate as a team to design, develop, and document the project.
 
 ## ✨ Key Features
 
-Update this section to reflect the features actually implemented in the project.
+*Add the features implemented in the actual project here.*
 
-- **Urinalysis Support:** Tools for working with urine sample data.
-- **Data Visualization:** Clear presentation of relevant analysis results, if implemented.
-- **Health Information:** Structured display of urinalysis-related parameters.
-- **User-Friendly Interface:** An interface designed to make information easier to navigate.
-- **Digital Health Monitoring:** Technology-assisted health data tracking, if supported.
+- Urine analysis and result processing
+- User-friendly interface, if implemented
+- Result visualization or reporting, if implemented
+- Data handling and analysis, if implemented
 
-## ⚙️ How It Works
+## 🛠️ Technologies Used
 
-The project's workflow depends on its actual implementation. A typical urinalysis system may follow these stages:
-
-1. **Input:** Collect a urine sample or enter relevant sample data.
-2. **Processing:** Process the available data using the implemented methods.
-3. **Analysis:** Evaluate the measured parameters or sample information.
-4. **Results:** Display the processed results in an understandable format.
-5. **Interpretation:** Provide relevant information for further review.
-
-## 🛠️ Technology Stack
-
-Add the technologies actually used in this project.
-
-- **Programming Language:** [Python / JavaScript / Other]
-- **Frontend:** [HTML, CSS, JavaScript / React / Other]
-- **Backend:** [Flask / Django / Node.js / Other]
-- **Database:** [SQLite / MySQL / MongoDB / Not Applicable]
-- **Analysis Tools:** [Libraries or algorithms used]
+*List the actual programming languages, frameworks, libraries, and tools used in the repository.*
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-Install the software and dependencies required by the project.
-
-Examples may include:
-
-- Git
-- Python or Node.js, depending on the implementation
-- Required project libraries and packages
+Install the tools and dependencies required by the project.
 
 ### Installation
 
-**1. Clone the repository**
+1. Clone the repository.
+2. Open the project folder.
+3. Install the required dependencies.
+4. Configure any required settings.
+5. Run the application using the project's appropriate startup command.
 
-```bash
-git clone https://github.com/zaaz-png/smart_urinalaysis.git
-```
+Refer to the project files and dependency configuration for the exact commands.
 
-**2. Navigate to the project folder**
+## 👥 Team & Equal Contributions
 
-```bash
-cd smart_urinalaysis
-```
+This project was developed by a team of three members who contributed equally to its overall development.
 
-**3. Install dependencies**
+| Team Member | GitHub Profile | Contribution |
+|---|---|---|
+| Member 1 | [GitHub Profile](https://github.com/username1) | Equal contribution |
+| Member 2 | [GitHub Profile](https://github.com/username2) | Equal contribution |
+| Member 3 | [GitHub Profile](https://github.com/username3) | Equal contribution |
 
-Follow the installation instructions appropriate to the project's language and dependency files.
+### Collaboration & Credits
 
-For example, if the project uses Python and includes `requirements.txt`:
+All three team members are equally credited for their collaborative work on Smart Urinalysis. The repository is hosted under one member's account, but repository ownership does not represent the distribution of contributions to the project.
 
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+## ⚠️ Disclaimer
 
-**4. Run the application**
-
-Use the appropriate command for the project's framework. For example, a Python application might use:
-
-```bash
-python app.py
-```
-
-Refer to the project files for the correct startup command.
-
-## 📁 Project Structure
-
-The structure below is illustrative. Update it to match the actual repository.
-
-```text
-smart_urinalaysis/
-├── README.md
-├── requirements.txt
-├── app.py
-├── static/
-├── templates/
-└── data/
-```
-
-## 🔮 Future Enhancements
-
-Possible enhancements, depending on the project's current scope:
-
-- Interactive visualization of urinalysis parameters.
-- Historical records and trend tracking.
-- Improved data processing and reporting.
-- Responsive interface for mobile devices.
-- Integration with compatible sensors or laboratory data sources.
-
-## ⚠️ Medical Disclaimer
-
-This project is intended for educational and technological development purposes. It is not a substitute for professional medical testing, diagnosis, or treatment. Any health-related results must be interpreted appropriately by qualified healthcare professionals.
-
-## 🤝 Contributions
-
-Contributions, suggestions, and improvements are welcome in accordance with the repository owner's contribution guidelines.
-
-If you are contributing as a collaborator, please follow the project's existing workflow and coordinate changes with the repository owner.
-
-## 👥 Contributors
-
-- **Original project owner:** zaaz-png
-- **Contributors:** vradhiagar , reneedesai
+This project is intended for educational and development purposes. Its outputs should not be considered a substitute for professional medical evaluation or laboratory testing.
 
 ## 📄 License
 
-Refer to the repository's existing `LICENSE` file for the applicable licensing terms.
-
----
-
-*Built to explore the intersection of healthcare, data, and technology.*
+Refer to the repository's license file for applicable terms.
