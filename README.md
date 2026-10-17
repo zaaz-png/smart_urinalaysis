@@ -158,10 +158,10 @@ Smart Urinalysis was developed collaboratively by a team of four members. **All 
 
 | Team Member | GitHub Profile | Contribution |
 |---|---|---|
-| Member 1 | [GitHub Profile](https://github.com/username1) | Equal project contribution |
-| Member 2 | [GitHub Profile](https://github.com/username2) | Equal project contribution |
-| Member 3 | [GitHub Profile](https://github.com/username3) | Equal project contribution |
-| Member 4 | [GitHub Profile](https://github.com/username4) | Equal project contribution |
+| Zainab Azhar | [GitHub Profile](https://github.com/zaaz-png) | Equal project contribution |
+| Vradhi Agarwal | [GitHub Profile](https://github.com/vradhiagar) | Equal project contribution |
+| Renee Desai | [GitHub Profile](https://github.com/reneedesai) | Equal project contribution |
+| Aryan Chauhan | [GitHub Profile](https://github.com/ryouzen1712) | Equal project contribution |
 
 ### 🤝 Collaboration Statement
 
