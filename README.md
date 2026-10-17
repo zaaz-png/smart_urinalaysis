@@ -130,8 +130,8 @@ If you are contributing as a collaborator, please follow the project's existing 
 
 ## 👥 Contributors
 
-- **Original project owner:** [GitHub username or team]
-- **Contributors:** [Add contributor names and roles]
+- **Original project owner:** zaaz-png
+- **Contributors:** vradhiagar , reneedesai
 
 ## 📄 License
 
